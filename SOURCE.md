@@ -10,6 +10,8 @@ IMAGE 1 FILE
 
 `transit.jpg`
 
+
+
 IMAGE 1 ALT TEXT
 
 `Modern Transit`
@@ -56,10 +58,19 @@ SMALLER SUB HEAD
 
 LINK 1
 
-`Lonely Planet`
-`http://www.lonelyplanet.com/saudi-arabia/riyadh`
+
+<a href ="http://www.lonelyplanet.com/saudi-arabia/riyadh"> Lonely Planet</a>
 
 LINK 2
 
 `Wikipedia`
 `http://en.wikipedia.org/wiki/Riyadh`
+
+
+
+
+
+
+
+
+ 
